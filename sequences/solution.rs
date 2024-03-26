@@ -16,6 +16,7 @@ fn main() {
     let mut prev = 1;
     let mut pow2 = 1;
 
+
     for c in s.chars() {
         match c {
             '?' => {
